@@ -12,7 +12,7 @@ Ensuite, avec le langage python, j'ai pu faire de l'augmentation d'image (data a
 
 Puis j'ai divisé ces images en jeux de d'apprentissage, de validation et de test.
 
-Enfin, avec créé un modèle via transfer learning. C'est-à-dire que j'ai utilisé le modèle VGG19 qui est modèle déjà entrainé pour la reconnaisance d'image puis je gélé ses convolution pour entrainer juste sa partie supérieur sur mon type de reconnaissance d'image (içi la tumeur de cerveau). Pour cela, j'ai utilisé la bibliothèque Tensorflow.Keras.
+Enfin, avec créé un modèle via transfer learning. C'est-à-dire que j'ai utilisé le modèle VGG19 qui est modèle déjà entrainé pour la reconnaissance d'images puis j'ai gelé ses convolutions pour entrainer juste sa partie supérieur sur mon type de reconnaissance d'image (ici la tumeur de cerveau). Pour cela, j'ai utilisé la bibliothèque Tensorflow.Keras.
 
 Après entraînement, mon modèle arrive à prédire correctement 70% des images que l'on lui donne.
 
