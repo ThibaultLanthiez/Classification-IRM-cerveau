@@ -4,7 +4,7 @@
 
 # Classification d'IRM de cerveau pour la détection de tumeur
 
-L'objectif de ce projet est de classer de images d'IRM de cerveau selon le niveau de gravité de la tumeur (4 classes). Le modèle doit être capable de classer les images dans les classes suivantes : pas de tumeur et 3 stades d'avancement de la tumeur.
+L'objectif de ce projet est de classer des images d'IRM de cerveau selon le niveau de gravité de la tumeur (4 classes). Le modèle doit être capable de classer les images dans les classes suivantes : pas de tumeur et 3 stades d'avancement de la tumeur.
 
 Pour cela, j'ai téléchargé sur la plateforme Kaggle un dataset d'environ 400 image d'IRM de cerveau annotés d'une des 4 classes (100 images par classe).
 
