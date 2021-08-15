@@ -6,7 +6,7 @@
 
 L'objectif de ce projet est de classer des images d'IRM de cerveau selon le niveau de gravité de la tumeur (4 classes). Le modèle doit être capable de classer les images dans les classes suivantes : pas de tumeur et 3 stades d'avancement de la tumeur.
 
-Pour cela, j'ai téléchargé sur la plateforme Kaggle un dataset d'environ 400 image d'IRM de cerveau annotés d'une des 4 classes (100 images par classe).
+Pour cela, j'ai téléchargé sur la plateforme Kaggle un dataset d'environ 400 image d'IRM de cerveau annotées d'une des 4 classes (100 images par classe).
 
 Ensuite, avec le langage python, j'ai pu faire de l'augmentation d'images (data augmentation) en faisant par exemple subir des rotations et des zooms aux images. Cela permet d'augmenter le nombre d'images pour réduire le risque de sur-apprentissage.
 
